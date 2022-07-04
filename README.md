@@ -4,6 +4,8 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PeanutMelonSeedBigAlmond)](https://github.com/PeanutMelonSeedBigAlmond)
 
+[![Github Code Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PeanutMelonSeedBigAlmond&layout=compact&count_private=true&include_all_commits=true)](https://github.com/PeanutMelonSeedBigAlmond)
+
 ## 个人介绍
 
 1. 主修医学，就读于某不知名医学院
