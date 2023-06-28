@@ -32,11 +32,9 @@
 
 - 头像来源
 
-    画师：[巫贼_ikataruto](https://space.bilibili.com/425286)
+    画师：[うめちぃ](https://pixiv.net/users/6908845)
 
-    地址：[BiliBili](https://t.bilibili.com/545678459708624542)
-
-    角色：風又（かざまた） ねり
+    地址：[ん……ご主人、こっちきて。 | うめちぃ](https://www.pixiv.net/artworks/107981195)
 
 
 - 图片来源
